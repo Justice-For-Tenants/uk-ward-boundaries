@@ -9,7 +9,7 @@ Simplified UK Ward and Local Authority District boundary GeoJSON files, sized fo
 Each snapshot is published via GitHub Pages at:
 
 ```
-https://justice-for-tenants.github.io/uk-ward-boundaries/<YEAR>/<MONTH>/<FILENAME>.geojson
+https://justice-for-tenants.github.io/uk-administrative-boundaries/<YEAR>/<MONTH>/<FILENAME>.geojson
 ```
 
 Where `<FILENAME>` is either `wards` or `local_authority_districts`.
@@ -18,10 +18,10 @@ Where `<FILENAME>` is either `wards` or `local_authority_districts`.
 
 | Year | Month    | Type                      | URL                                                                                          |
 |------|----------|---------------------------|----------------------------------------------------------------------------------------------|
-| 2023 | December | Wards                     | https://justice-for-tenants.github.io/uk-ward-boundaries/2023/december/wards.geojson          |
-| 2023 | December | Local Authority Districts | https://justice-for-tenants.github.io/uk-ward-boundaries/2023/december/local_authority_districts.geojson |
-| 2024 | December | Wards                     | https://justice-for-tenants.github.io/uk-ward-boundaries/2024/december/wards.geojson          |
-| 2024 | December | Local Authority Districts | https://justice-for-tenants.github.io/uk-ward-boundaries/2024/december/local_authority_districts.geojson
+| 2023 | December | Wards                     | https://justice-for-tenants.github.io/uk-administrative-boundaries/2023/december/wards.geojson          |
+| 2023 | December | Local Authority Districts | https://justice-for-tenants.github.io/uk-administrative-boundaries/2023/december/local_authority_districts.geojson |
+| 2024 | December | Wards                     | https://justice-for-tenants.github.io/uk-administrative-boundaries/2024/december/wards.geojson          |
+| 2024 | December | Local Authority Districts | https://justice-for-tenants.github.io/uk-administrative-boundaries/2024/december/local_authority_districts.geojson
 
 
 
