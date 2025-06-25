@@ -9,20 +9,20 @@ Simplified UK ward boundary GeoJSON.
 Each snapshot file is published via GitHub Pages at:
 
 ```
-https://justice-for-tenants.github.io/uk-ward-boundaries/<YEAR>/<FILENAME>.json
+https://justice-for-tenants.github.io/uk-ward-boundaries/<YEAR>/<FILENAME>.geojson
 ```
 
 For example:
 
-- December 2023: [https://justice-for-tenants.github.io/uk-ward-boundaries/2023/december.json](https://justice-for-tenants.github.io/uk-ward-boundaries/2023/december.json)
-- December 2024:       [https://justice-for-tenants.github.io/uk-ward-boundaries/2024/december.json](https://justice-for-tenants.github.io/uk-ward-boundaries/2024/december.json)
+- December 2023: [https://justice-for-tenants.github.io/uk-ward-boundaries/2023/december.geojson](https://justice-for-tenants.github.io/uk-ward-boundaries/2023/december.geojson)
+- December 2024:       [https://justice-for-tenants.github.io/uk-ward-boundaries/2024/december.geojson](https://justice-for-tenants.github.io/uk-ward-boundaries/2024/december.geojson)
 
 ## Available Ward Boundary Files
 
 | Year | Snapshot | URL                                                                                                                                                        |
 | ---- | -------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2023 | December | [https://justice-for-tenants.github.io/uk-ward-boundaries/2023/december.json](https://justice-for-tenants.github.io/uk-ward-boundaries/2023/december.json) |
-| 2024 | December | [https://justice-for-tenants.github.io/uk-ward-boundaries/2024/december.json](https://justice-for-tenants.github.io/uk-ward-boundaries/2024/december.json) |
+| 2023 | December | [https://justice-for-tenants.github.io/uk-ward-boundaries/2023/december.geojson](https://justice-for-tenants.github.io/uk-ward-boundaries/2023/december.geojson) |
+| 2024 | December | [https://justice-for-tenants.github.io/uk-ward-boundaries/2024/december.geojson](https://justice-for-tenants.github.io/uk-ward-boundaries/2024/december.geojson) |
 
 
 ## Usage in Metabase
@@ -30,7 +30,7 @@ For example:
 1. In Metabase: **Admin Settings → Maps → Add a map**
 2. Set **URL** to your chosen file, e.g.:
    ```
-   https://justice-for-tenants.github.io/uk-ward-boundaries/2023/december.json
+   https://justice-for-tenants.github.io/uk-ward-boundaries/2023/december.geojson
    ```
 3. Give the layer a name (e.g. “UK Wards Dec 2023”) and save.
 
